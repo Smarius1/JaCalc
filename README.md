@@ -1,0 +1,2 @@
+# JaCalc
+A java calculator
